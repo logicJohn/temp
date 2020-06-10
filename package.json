@@ -1,0 +1,26 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "desc-node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicJohn/temp.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logicJohn/temp/issues"
+  },
+  "homepage": "https://github.com/logicJohn/temp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  }
+}
